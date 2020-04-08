@@ -1,7 +1,7 @@
 # hello-world
 My first repository (learning how to do this so I can be a better R-progamer at work)
 
-As a practice project I think I am going to use the NY-times COVID-19 county level dataset, and then using rayshader and a state county shapefiles, I will create a 3-d GIFF of each state where the camera rotates around each state map showing how cases per county has changed over time (or it may just be a snapshot in time). 
+As a practice project I think I am going to use the NY-times COVID-19 county level dataset, and the R Rayshader pacakge to create a 3-d visualization for WA state.
 
 Here's are some Rayshader example links:
 https://www.rayshader.com/
